@@ -30,3 +30,10 @@
      "skipServerInstallation": false
    }
    ```
+
+## ps
+
+1. mac m1 无法使用 uiautomatorviewer
+
+   java 版本只能是 1.8
+   [具体解决方案](https://github.com/android/android-test/issues/911#issuecomment-849389068)
