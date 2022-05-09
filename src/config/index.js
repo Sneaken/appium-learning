@@ -5,7 +5,8 @@ export const baseConfig = {
   capabilities: {
     platformName: 'Android',
     platformVersion: '10',
-    deviceName: '192.168.0.101:5555',
+    // deviceName: '192.168.0.101:5555',
+    deviceName: '6be888d9',
     automationName: 'UiAutomator2',
     // 由于手机上已经安装过相关驱动， 所以配置跳过
     skipDeviceInitialization: true,
